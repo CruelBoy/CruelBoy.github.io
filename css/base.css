@@ -1,0 +1,11 @@
+.infor h2{ font-size: 16px; line-height: 25px;}
+.profile-name{line-height: 32px;}
+.profile-infor{font-size: 16px; color:#9e9c9c; }
+.box-content{padding-left: 15px !important}
+
+
+.contbox{display: none;}
+.active{display: block;}
+.tabbar .active a{background: green; color:#FFF;}
+
+.title{padding-left:20px;}
